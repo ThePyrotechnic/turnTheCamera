@@ -1,0 +1,7 @@
+name: Turn the Camera
+internal_name: turnTheCamera
+author: Doug Horn'ey of Malboro
+description: |-
+  Use the arrow keys to turn your character and the camera
+repo_url: https://github.com/ThePyrotechnic/turnTheCamera
+dalamud_api_level: 5
